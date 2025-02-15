@@ -1,12 +1,7 @@
 <h1 align="left">👋 Welcome! I'm Yukyung </h1>
 
 <h3 align="left">🌱 Interests 🌱</h3>
-<ul align="left">
-  <li>Backend Development</li>
-  <li>Infrastructure</li>
-  <li>Container & Orchestration</li>
-  <li>Cloud Computing</li>
-</ul>
+Backend Development • Infrastructure • Container & Orchestration • Cloud Computing  
 
 <h3 align="left">✨ Tech Stack ✨ </h3>
 
@@ -39,7 +34,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> 
