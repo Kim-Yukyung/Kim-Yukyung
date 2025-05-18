@@ -2,14 +2,14 @@
   <br/>
   <h1>
     <img 
-      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" 
-      alt="Technologist" 
-      width="42" 
-      height="42" 
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png"
+      alt="Student" 
+      width="50" 
+      height="50" 
       style="vertical-align: middle;"
     />
     &nbsp;
-    <span style="font-size: 1.8em; vertical-align: middle;"><strong>YuKyung</strong></span>
+    YuKyung
   </h1>
   <br/>
   
